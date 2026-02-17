@@ -1,20 +1,31 @@
 # Gourav Singh
 
-Full-Stack Developer in Training (TypeScript Path)
+Full-Stack Developer in Training (TypeScript + Systems Focus)
 
-Currently focused on building strong fundamentals in:
-- JavaScript
-- Node.js
+Currently building strong foundations in modern web development and infrastructure.
+
+## Core Focus
+- JavaScript (architecture + async)
+- Node.js & Express
 - PostgreSQL
 - TypeScript
-- Next.js
+- React & Next.js
 
-I’m following a structured roadmap and building real projects to become internship-ready within 6 months.
+## Systems & DevOps Exposure
+- Linux & Bash
+- Docker & containerization
+- CI/CD fundamentals
+- Basic Kubernetes concepts
+
+## What I’m Doing
+- Following a structured Web Dev + DevOps roadmap
+- Building production-style applications
+- Practicing clean Git workflows
+- Documenting progress publicly
 
 ## Current Phase
-Deep dive into JavaScript fundamentals.
+Learning HTML & CSS fundamentals before moving into deep JavaScript.
 
-## Projects
-Projects will be added here as I ship them.
+---
 
-Consistency > Motivation.
+Goal: Become internship-ready in 6 months with strong full-stack and systems fundamentals.
